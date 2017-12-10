@@ -1,2 +1,2 @@
 # Code
-Code for personal projects 
+Code for personal projects from my scholarship and courses
